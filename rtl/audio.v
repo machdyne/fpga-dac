@@ -30,8 +30,7 @@ module audio
 	localparam BITS = 16;
 
 	localparam FLASH_AUDIO_ADDR = 24'h000000;
-	localparam FLASH_AUDIO_SIZE = 24'd2883584;
-	//localparam FLASH_AUDIO_SIZE = 24'd960000;
+	localparam FLASH_AUDIO_SIZE = 24'd960000;
 
 `ifdef ECP5
 	wire SPI_SCK;
