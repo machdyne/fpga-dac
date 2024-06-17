@@ -8,6 +8,7 @@ It expects 48KHz 16-bit signed PCM stereo audio data in SPI flash @ 0x000000.
 
 * [Konfekt](https://machdyne.com/product/konfekt-computer/)
 * [Noir](https://machdyne.com/product/noir-computer/)
+* [Lakritz](https://machdyne.com/product/lakritz-computer/)
 
 ## Example Usage
 
